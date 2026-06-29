@@ -1,0 +1,6 @@
+{
+  "name": "Red Alert 2 CSF Editor",
+  "description": "A clean, high-performance web tool to browse, search, edit, import, and export Red Alert 2 CSF string tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
